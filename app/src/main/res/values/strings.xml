@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToeAssignment</string>
+    <string name="appTitle">Welcome to Tic Tac Toe!</string>
+    <string name="appinfo">How to Play: In order to play the game you will try to get three of O\'s in a row! This can be three directly down,
+    across, or diagonal. One you get three in a row you win! But watch out, the computer is trying to stop you from winning, and is trying to beat you!
+    </string>
+    <string name="enterName">Enter Username:</string>
+    <string name="playgame">Play Game!</string>
+    <string name="title_activity_tic_tac_toe">TicTacToe</string>
+
+    //Tic Tac Toe Strings
+    <string name="tacTitle">Tic Tac Toe!</string>
+    <string name="switchmode">Multiplayer</string>
+</resources>
